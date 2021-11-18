@@ -1,0 +1,11 @@
+.builder_layout {
+	display: flex;
+	flex-direction: row;
+	margin: 2rem 0;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+	align-items: flex-start;
+	align-content: flex-start;
+	width: 90%;
+	margin: 0 auto;
+}

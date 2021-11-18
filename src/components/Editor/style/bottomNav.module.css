@@ -1,0 +1,20 @@
+.footer_nav {
+	display: flex;
+	position: fixed;
+	bottom: 0;
+	background-color: #fff;
+	border-top: 1px solid #25494d15;
+	width: 100%;
+	justify-content: space-evenly;
+	height: 3.2rem;
+	align-items: center;
+	z-index: 1;
+}
+
+.add_button {
+	position: fixed;
+	right: 1rem;
+	bottom: 5rem;
+	background: #052428;
+	border-radius: 50%;
+}

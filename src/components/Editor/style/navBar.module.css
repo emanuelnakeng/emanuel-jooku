@@ -1,0 +1,17 @@
+.navigation_bar {
+	display: flex;
+	position: sticky;
+	top: 0;
+	flex-direction: row;
+	background: #fff;
+	justify-content: space-between;
+	padding: 1.5rem 1rem 1rem 1rem;
+}
+
+.nav_actions {
+	display: flex;
+	flex-wrap: nowrap;
+	flex-direction: row;
+	align-content: center;
+	text-align: center;
+}

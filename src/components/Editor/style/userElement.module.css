@@ -1,0 +1,8 @@
+.user_element {
+	border: 1px solid #e4e4e4;
+	padding: 1.8rem 1.2rem;
+	margin-bottom: 1.2rem;
+	border-radius: 0.5rem;
+	width: 88%;
+	box-shadow: 0 0 5px 0 #25494d15;
+}

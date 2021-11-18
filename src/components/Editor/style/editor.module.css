@@ -1,0 +1,14 @@
+.editor {
+	display: flex;
+	flex-direction: column;
+	width: 60%;
+	height: 100vh;
+	align-items: center;
+	justify-content: flex-start;
+}
+
+@media only screen and (max-width: 768px) {
+	.editor {
+		width: 100%;
+	}
+}
